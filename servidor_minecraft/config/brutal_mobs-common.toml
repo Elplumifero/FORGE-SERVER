@@ -1,0 +1,11 @@
+#Mobs spawned using the following methods may be replaced by brutal mobs.
+Natural = true
+Chunk_Generation = true
+Conversion = true
+Spawn_Egg = false
+DISPENSER = false
+Command = false
+Structure = false
+Mob_Summoned = false
+Event = false
+
