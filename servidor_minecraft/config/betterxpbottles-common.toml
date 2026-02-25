@@ -1,0 +1,51 @@
+
+["XP Bottle Settings"]
+	#Minimum XP given by Tier 1 XP Bottle
+	#Range: 1 ~ 50000
+	xp_tier_1_min = 12
+	#Maximum XP given by Tier 1 XP Bottle
+	#Range: 1 ~ 50000
+	xp_tier_1_max = 50
+	#Minimum XP given by Tier 2 XP Bottle
+	#Range: 1 ~ 50000
+	xp_tier_2_min = 24
+	#Maximum XP given by Tier 2 XP Bottle
+	#Range: 1 ~ 50000
+	xp_tier_2_max = 103
+	#Minimum XP given by Tier 3 XP Bottle
+	#Range: 1 ~ 50000
+	xp_tier_3_min = 48
+	#Maximum XP given by Tier 3 XP Bottle
+	#Range: 1 ~ 50000
+	xp_tier_3_max = 207
+	#Minimum XP given by Tier 4 XP Bottle
+	#Range: 1 ~ 50000
+	xp_tier_4_min = 96
+	#Maximum XP given by Tier 4 XP Bottle
+	#Range: 1 ~ 50000
+	xp_tier_4_max = 416
+	#Minimum XP given by Tier 5 XP Bottle
+	#Range: 1 ~ 50000
+	xp_tier_5_min = 192
+	#Maximum XP given by Tier 5 XP Bottle
+	#Range: 1 ~ 50000
+	xp_tier_5_max = 831
+	#Minimum XP given by Tier 6 XP Bottle
+	#Range: 1 ~ 50000
+	xp_tier_6_min = 384
+	#Maximum XP given by Tier 6 XP Bottle
+	#Range: 1 ~ 50000
+	xp_tier_6_max = 1663
+	#Minimum XP given by Tier 7 XP Bottle
+	#Range: 1 ~ 50000
+	xp_tier_7_min = 768
+	#Maximum XP given by Tier 7 XP Bottle
+	#Range: 1 ~ 50000
+	xp_tier_7_max = 3327
+	#Minimum XP given by Tier 8 XP Bottle
+	#Range: 1 ~ 75000
+	xp_tier_8_min = 1536
+	#Maximum XP given by Tier 8 XP Bottle
+	#Range: 1 ~ 75000
+	xp_tier_8_max = 5745
+
