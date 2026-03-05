@@ -1,0 +1,515 @@
+{
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "overweight_farming:building_blocks/waxed_seeded_peeled_melon_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "under_the_moon:root": {
+    "criteria": {
+      "root_0": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:end_root": {
+    "criteria": {
+      "custom_test_name": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_normal": {
+    "criteria": {
+      "is_triggered": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "queen_bee:root": {
+    "criteria": {
+      "root": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "faded_conquest_2:faded_2": {
+    "criteria": {
+      "faded_2_0": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "unearthed_journey:unearthed_journey_ad": {
+    "criteria": {
+      "unearthed_journey_ad_0": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_the_recipe": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "avw:avw_advancements": {
+    "criteria": {
+      "avw_advancements_0": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/root": {
+    "criteria": {
+      "tick": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "valoria:valoria/valoria": {
+    "criteria": {
+      "valoria_enter_world": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "seadwellers:adv_root": {
+    "criteria": {
+      "adv_root": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "threateningly_mobs:the_threateningly_mobs": {
+    "criteria": {
+      "the_threateningly_mobs_0": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "overweight_farming:building_blocks/waxed_seedless_peeled_melon_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:bettermcdonaldsmod/root": {
+    "criteria": {
+      "tick": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "infinite_abyss:logged_in": {
+    "criteria": {
+      "logged_in": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "distant_worlds:distant_worlds_explore": {
+    "criteria": {
+      "distant_worlds_explore": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "theabyss:unlockthebook": {
+    "criteria": {
+      "unlockthebook": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "mythsandlegends:root": {
+    "criteria": {
+      "mythsandlegends": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "overweight_farming:building_blocks/waxed_half_seeded_peeled_melon_from_honeycomb": {
+    "criteria": {
+      "has_the_recipe": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:legendary_monsters_root": {
+    "criteria": {
+      "custom_test_name": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "overweight_farming:building_blocks/vegetable_compost": {
+    "criteria": {
+      "has_the_recipe": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "progressivebosses:recipes/misc/corrupted_soul_sand": {
+    "criteria": {
+      "has_the_recipe_1": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:nether_root": {
+    "criteria": {
+      "custom_test_name": "2026-03-04 01:44:40 +0000"
+    },
+    "done": true
+  },
+  "dawnera:the_dawn_era": {
+    "criteria": {
+      "join_game": "2026-03-04 01:44:41 +0000"
+    },
+    "done": true
+  },
+  "sandworm_mod:root": {
+    "criteria": {
+      "requirement": "2026-03-04 01:44:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2026-03-04 02:36:29 +0000",
+      "minecraft:dripstone_caves": "2026-03-04 03:10:33 +0000",
+      "minecraft:forest": "2026-03-04 01:44:41 +0000",
+      "minecraft:deep_dark": "2026-03-05 02:31:56 +0000",
+      "minecraft:meadow": "2026-03-04 02:29:54 +0000",
+      "minecraft:plains": "2026-03-04 02:36:44 +0000"
+    },
+    "done": false
+  },
+  "farlanders:root": {
+    "criteria": {
+      "attack_anything": "2026-03-04 02:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-03-04 02:32:55 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2026-03-04 02:35:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2026-03-04 02:35:32 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding": {
+    "criteria": {
+      "bleeding_applied": "2026-03-04 02:36:03 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2026-03-04 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "mythical_weapons:pirate": {
+    "criteria": {
+      "pirate_0": "2026-03-04 02:40:30 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2026-03-04 02:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-03-04 02:41:19 +0000"
+    },
+    "done": true
+  },
+  "midnight:story/root": {
+    "criteria": {
+      "crafting_table": "2026-03-04 02:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2026-03-04 02:41:26 +0000",
+      "golden_carrot": "2026-03-05 02:16:30 +0000"
+    },
+    "done": false
+  },
+  "bettermcdonaldsmod:bettermcdonaldsmod/get_seeds": {
+    "criteria": {
+      "inventory_changed": "2026-03-04 02:42:26 +0000"
+    },
+    "done": true
+  },
+  "aerlunerpg:worlda": {
+    "criteria": {
+      "worlda": "2026-03-04 02:53:04 +0000"
+    },
+    "done": true
+  },
+  "cos_mc:welcometo_creaturesof_sonaria_craft": {
+    "criteria": {
+      "welcometo_creaturesof_sonaria_craft_0": "2026-03-04 03:00:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2026-03-04 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "krip_turrets:dos_1": {
+    "criteria": {
+      "dos_1_0": "2026-03-04 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "white_grape_seeds": "2026-03-04 03:05:41 +0000"
+    },
+    "done": true
+  },
+  "dawnera:living_fossil": {
+    "criteria": {
+      "meet_living_fossil": "2026-03-04 03:08:48 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2026-03-04 03:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-03-04 03:50:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2026-03-05 00:07:15 +0000"
+    },
+    "done": true
+  },
+  "immersive_machinery:misc/machinery": {
+    "criteria": {
+      "has_item": "2026-03-05 00:09:32 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2026-03-05 00:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-03-05 00:09:32 +0000"
+    },
+    "done": true
+  },
+  "saintsdragons:recipes/stegonaut_binder": {
+    "criteria": {
+      "has_iron_ingot": "2026-03-05 00:09:32 +0000"
+    },
+    "done": true
+  },
+  "krip_turrets:dos_7": {
+    "criteria": {
+      "dos_7_0": "2026-03-05 00:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-03-05 00:12:41 +0000"
+    },
+    "done": true
+  },
+  "dawnera:long_live_the_king": {
+    "criteria": {
+      "meet_trex": "2026-03-05 01:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2026-03-05 01:12:20 +0000"
+    },
+    "done": true
+  },
+  "opposing_force:root": {
+    "criteria": {
+      "root": "2026-03-05 01:38:48 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2026-03-05 01:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2026-03-05 02:13:29 +0000",
+      "minecraft:silverfish": "2026-03-05 04:31:09 +0000",
+      "minecraft:zombie": "2026-03-05 03:47:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2026-03-05 02:13:29 +0000"
+    },
+    "done": true
+  },
+  "saintsdragons:recipes/draconic_codex": {
+    "criteria": {
+      "has_book": "2026-03-05 02:15:33 +0000"
+    },
+    "done": true
+  },
+  "saintsdragons:recipes/raevyx_binder": {
+    "criteria": {
+      "has_deepslate": "2026-03-05 02:15:43 +0000"
+    },
+    "done": true
+  },
+  "mythsandlegends:cursed_power": {
+    "criteria": {
+      "obtain_cursed_power": "2026-03-05 02:15:54 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/wild_crops": {
+    "criteria": {
+      "hops_seeds": "2026-03-05 02:23:58 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2026-03-05 02:23:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2026-03-05 03:23:53 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/kill_a_heretic": {
+    "criteria": {
+      "kill_a_warlock": "2026-03-05 03:26:00 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2026-03-05 03:55:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "toast": "2026-03-05 04:08:32 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2026-03-05 04:19:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2026-03-05 04:08:35 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
