@@ -1,0 +1,80 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Le_Baconzito",
+      "uniqueId": "90ef1463-ab3f-383d-aa71-99af0fc3c380"
+    },
+    "time": 1773971541969,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/5bsTiUkm3B"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Le_Baconzito",
+      "uniqueId": "90ef1463-ab3f-383d-aa71-99af0fc3c380"
+    },
+    "time": 1773971528922,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/RNADEqrNnn"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "elplumifero",
+      "uniqueId": "df404e5b-d6ae-3b31-ad30-1b34d94ef112"
+    },
+    "time": 1772645396433,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/rLQg1GvWvv"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "elplumifero",
+      "uniqueId": "df404e5b-d6ae-3b31-ad30-1b34d94ef112"
+    },
+    "time": 1772645032336,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/9VTrUve0vh"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "elplumifero",
+      "uniqueId": "df404e5b-d6ae-3b31-ad30-1b34d94ef112"
+    },
+    "time": 1772644903189,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/oMgMBLHl53"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "elplumifero",
+      "uniqueId": "df404e5b-d6ae-3b31-ad30-1b34d94ef112"
+    },
+    "time": 1772644783835,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/IUcfMwXO1U"
+    }
+  }
+]

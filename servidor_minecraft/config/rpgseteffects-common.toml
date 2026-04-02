@@ -1,0 +1,30 @@
+
+#Config for individual Relic loot drop chances per boss entity (0.01 = 1%)
+[relic_loot]
+	#Per-boss drop chance for relics. Format: "modid:entity=chance".
+	customBossDropChances = ["minecraft:evoker=0.3", "minecraft:illusioner=0.3", "minecraft:ravager=0.3", "minecraft:elder_guardian=1.0", "minecraft:wither=0.3", "minecraft:ender_dragon=1.0", "minecraft:warden=1.0", "bosses_of_mass_destruction:void_blossom=1.0", "bosses_of_mass_destruction:lich=1.0", "bosses_of_mass_destruction:obsidilith=1.0", "bosses_of_mass_destruction:gauntlet=1.0", "twilightforest:naga=1.0", "twilightforest:lich=1.0", "twilightforest:minoshroom=1.0", "twilightforest:hydra=1.0", "twilightforest:knight_phantom=1.0", "twilightforest:ur_ghast=1.0", "twilightforest:alpha_yeti=1.0", "twilightforest:snow_queen=1.0", "alexsmobs:void_worm=1.0", "alexscaves:luxtructosaurus=1.0", "alexscaves:forsaken=1.0", "alexscaves:tremorsaurus=1.0", "alexscaves:magnetron=1.0", "alexscaves:hullbreaker=1.0", "mowziesmobs:umvuthi=1.0", "mowziesmobs:frostmaw=1.0", "irons_spellbooks:cryomancer=0.2", "irons_spellbooks:archevoker=0.2", "irons_spellbooks:pyromancer=0.2", "irons_spellbooks:dead_king=1.0", "block_factorys_bosses:yeti=1.0", "block_factorys_bosses:sandworm=1.0", "block_factorys_bosses:infernal_dragon=1.0", "block_factorys_bosses:underworld_knight=1.0", "dungeons_and_combat:kamath=1.0", "dungeons_and_combat:sunleia=1.0", "cataclysm:ancient_remnant=1.0", "cataclysm:ender_golem=0.2", "cataclysm:ender_guardian=1.0", "cataclysm:ignis=1.0", "cataclysm:maledictus=1.0", "cataclysm:netherite_monstrosity=1.0", "cataclysm:scylla=1.0", "cataclysm:the_harbinger=1.0", "cataclysm:the_leviathan=1.0", "aquamirae:captain_cornelia=1.0", "terramity:gob=1.0", "terramity:gundalf=1.0", "terramity:super_sniffer=1.0", "terramity:trial_guardian=1.0", "terramity:ultra_sniffer=1.0", "terramity:virtue=1.0", "aether:valkyrie_queen=1.0", "aether:slider=1.0", "aether:sun_spirit=1.0", "blue_skies:summoner=1.0", "blue_skies:alchemist=1.0", "meetyourfight:swampjaw=1.0", "meetyourfight:bellringer=1.0", "meetyourfight:dame_fortuna=1.0", "meetyourfight:rosalyne=1.0", "eeeabsmobs:nameless_guardian=1.0", "divinerpg:king_of_scorchers=1.0", "divinerpg:the_watcher=1.0", "divinerpg:ancient_entity=1.0", "divinerpg:hive_queen=1.0", "divinerpg:quadro=1.0", "divinerpg:lady_luna=1.0", "divinerpg:wreck=1.0", "divinerpg:raglok=1.0", "divinerpg:reyvor=1.0", "divinerpg:karot=1.0", "divinerpg:vamacheron=1.0", "divinerpg:soul_fiend=1.0", "divinerpg:twilight_demon=1.0", "divinerpg:parasecta=1.0", "divinerpg:dramix=1.0", "soulsweapons:draugr_boss=1.0", "soulsweapons:moonknight=1.0", "soulsweapons:chaos_monarch=1.0", "soulsweapons:day_stalker=1.0", "soulsweapons:night_prowler=1.0", "soulsweapons:night_shade=1.0", "soulsweapons:returning_knight=1.0", "soulsweapons:accursed_lord_boss=1.0", "foolish:sacilic_abomination=1.0", "foolish:scarlant_queen=1.0", "foolish:thunderbird=1.0", "foolish:varmint_king=1.0", "foolish:pyre=1.0", "foolish:thrasher=1.0", "foolish:terrorflora=1.0", "foolish:timewelder=1.0", "foolish:astralis=1.0", "foolish:wendigrudge=1.0", "legendary_monsters:overgrown_colossus=1.0", "legendary_monsters:dune_sentinel=1.0", "legendary_monsters:posessed_paladin=1.0", "legendary_monsters:frostbitten_golem=1.0", "legendary_monsters:ancient_guardian=1.0", "legendary_monsters:cloud_golem=1.0", "legendary_monsters:withered_abomination=1.0", "wraithon:wraithon=1.0", "call_of_yucutan:kukulkan=1.0", "call_of_yucutan:ah_puch=1.0", "irons_spellbooks:necromancer=1.0", "companions:sacred_pontiff=1.0", "knightquest:netherman=1.0", "monsterexpansion:rakoth=1.0", "monsterexpansion:leivekilth=1.0", "monsterexpansion:rhyza=1.0", "monsterexpansion:skrythe=1.0"]
+
+#Config for Set Fragment loot in chests
+[fragment_loot]
+	#Minimum number of fragments per chest (0 = no fragments may drop)
+	#Range: 0 ~ 64
+	minFragmentsPerChest = 1
+	#Maximum number of fragments per chest
+	#Range: 0 ~ 64
+	maxFragmentsPerChest = 4
+	#Loot table IDs that can receive Set Fragments. Example: "minecraft:chests/simple_dungeon"
+	fragmentLootTables = ["minecraft:chests/simple_dungeon", "minecraft:chests/abandoned_mineshaft", "minecraft:chests/desert_pyramid", "minecraft:chests/jungle_temple", "minecraft:chests/stronghold_corridor", "minecraft:chests/stronghold_library", "minecraft:chests/shipwreck_treasure"]
+
+#Config for Nether Artifact loot injection in chests
+[nether_artifact_loot]
+	#Per-loot-table chance for Nether chests to roll the artifact pool. Format: "modid:chests/xyz=chance".
+	netherArtifactChests = ["minecraft:chests/bastion_treasure=0.60", "minecraft:chests/bastion_hoglin_stable=0.40", "minecraft:chests/bastion_bridge=0.35", "minecraft:chests/bastion_other=0.30", "minecraft:chests/nether_bridge=0.20"]
+
+#Config for Relic drops from buried treasure chests
+[relic_chest_loot]
+	#If true, buried treasure chests can contain Relics
+	enableTreasureRelics = true
+	#Chance for buried treasure chests to roll the Relic treasure pool (0.01 = 1%)
+	#Range: 0.0 ~ 1.0
+	treasureRelicChestChance = 1.0
+
